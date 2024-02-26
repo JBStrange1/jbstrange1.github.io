@@ -40,3 +40,9 @@ footer{
     align-items: center;
     padding-bottom: 3rem;
 }
+.dynamicWelcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}

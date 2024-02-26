@@ -43,6 +43,9 @@ img{
 .intro{
     border-bottom: 2px #DFDFDF solid;
 }
-
+.dynamicWelcome{
+    font-size: 2em;
+    font-weight: bold;
+}
 
 

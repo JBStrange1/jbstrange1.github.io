@@ -14,3 +14,7 @@ if(isAfternoon){
 if(isEvening){
     dynamicWelcome.textContent = 'Good Evening'
 }
+
+const secretMessage = "Im Terrible at Programming"
+localStorage.setItem("It's a secret to everybody.", secretMessage);
+
